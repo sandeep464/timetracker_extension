@@ -21,9 +21,11 @@ This project exemplifies the seamless integration of multiple technologies to de
 In conclusion, this Chrome extension stands out as a sophisticated example of modern web development, seamlessly combining multiple technologies. The use of Chrome Extension APIs powers its core functionality, while Node.js provides a robust backend for handling data processing and API calls. MongoDB plays a crucial role in securely storing and managing user data, ensuring scalability for future growth. Chart.js, HTML, CSS, and JavaScript together create a polished user experience and deliver a visually impactful solution. I have named it as "Time Tracking & Productivity Analysis".
 
 # OUTPUT OF THE TASK
-![task4-1](https://github.com/user-attachments/assets/b9290b26-bdb1-4bb8-b75e-0e7c3c1428db)
+## Screenshots
 
-https://github.com/user-attachments/assets/5bb15da0-0825-4636-aeed-1a56f3877b54
+![Screenshot 1](assets/chrome%20extension%20time%20tracking.png)
+![Screenshot 2](assets/chrome%20extension%20time%20tracking%201.png)
+
 =======
 # CHROME-EXTENSION-FOR-TIME-TRACKING
 >>>>>>> 64a1feea3a51e82c569d89fd72f20836d59c59c8
